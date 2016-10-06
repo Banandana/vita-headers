@@ -44,6 +44,7 @@
 #include <psp2/sysmodule.h>
 #include <psp2/system_param.h>
 #include <psp2/touch.h>
+#include <psp2/systemgesture.h>
 
 #include <psp2/io/devctl.h>
 #include <psp2/io/dirent.h>
